@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerFoods</string>
+    <string name="cities">Select any city :-</string>
+    <string-array name="cities">
+        <item>"Click to Select City"</item>
+        <item>"Lucknow"</item>
+        <item>"Mumbai"</item>
+        <item>"Delhi"</item>
+        <item>"Kolkata"</item>
+        <item>"Jaipur"</item>
+        <item>"Agra"</item>
+    </string-array>>
+</resources>

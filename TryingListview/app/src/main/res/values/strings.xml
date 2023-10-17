@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trying Listview</string>
+    <string name="choose_any_animal">Choose any animal:</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string-array name="pets">
+        <item>@string/dog</item>
+        <item>@string/cat</item>
+    </string-array>
+</resources>
